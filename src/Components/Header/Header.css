@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: center;
+}
+header h1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #ffffff;
+}
+header i {
+  color: #ffffff;
+  font-size: 30px;
+  margin-top: 0.5rem;
+  padding-right: 0.5rem;
+}

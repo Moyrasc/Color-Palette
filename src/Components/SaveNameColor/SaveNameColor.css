@@ -1,0 +1,26 @@
+.title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  text-align: left;
+  display: flex;
+}
+input {
+  background-color: transparent;
+  color: white;
+  border: 4px solid #ffffff;
+  border-radius: 9px;
+  padding: 10px 1rem;
+  outline: none;
+}
+button {
+  color: #2c2c2c;
+  border: 4px solid #ffffff;
+  border-radius: 9px;
+  font-size: 1rem;
+  font-weight: bold;
+  width: 67px;
+  height: 42px;
+  margin-left: 0.5rem;
+}
